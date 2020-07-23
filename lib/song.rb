@@ -46,7 +46,7 @@ class Song
     data = name.split(" - ")
     artist_name = data[0]
     song_name = data[1].gsub(".mp3","")
-    
+
 
   end
 
