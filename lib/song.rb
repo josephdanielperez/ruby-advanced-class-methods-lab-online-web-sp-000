@@ -44,7 +44,7 @@ class Song
     row = name
 
     data = name.split(" - ")
-    
+
   end
 
 end
